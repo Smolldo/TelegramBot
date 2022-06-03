@@ -1,0 +1,10 @@
+BOT_TOKEN = '5578242608:AAGgv4gqL8DJGp2mkCgue3xLk9Z7njAJOVA'
+
+#Covid tokens
+
+COVID_TOKEN = 'c7e04c557cmsh13aa63e75a379c5p1240bcjsne0fd6e1ba0df'
+
+
+
+#cash
+CASH = '03c9a8659719958de3c393c1f89db2a5ef9116bc'
